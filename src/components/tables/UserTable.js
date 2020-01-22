@@ -5,7 +5,7 @@ const UserTable = props => (
     <thead>
       <tr>
         <th>Name</th>
-        <th>Username</th>
+        <th>Github Username</th>
         <th>Actions</th>
       </tr>
     </thead>

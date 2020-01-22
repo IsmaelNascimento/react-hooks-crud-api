@@ -23,7 +23,7 @@ const AddUserForm = props => {
 		<form onSubmit={addUserClicked}>
 			<label>Name</label>
 			<input type="text" name="name" value={user.name} onChange={handleInputChange} />
-			<label>Username</label>
+			<label>Github Username</label>
 			<input type="text" name="username" value={user.username} onChange={handleInputChange} />
 			<button>Add new user</button>
 		</form>
