@@ -1,12 +1,13 @@
-# React Hooks Tutorial
+# React CRUD with API and Hooks
 
 In this tutorial, we'll make a simple CRUD app that can add, update, or delete users.
 
-### [View the demo](https://taniarascia.github.io/react-hooks/) | [Read the tutorial](https://www.taniarascia.com/crud-app-in-react-with-hooks/)
+### [View the demo](https://aws-amplify.d1o370v1mtt0rz.amplifyapp.com/) 
 
 ## Author
 
 - [Tania Rascia](https://www.taniarascia.com)
+- [Ismael Nascimento](https://www.ismaelnascimento.com)
 
 ## License
 
